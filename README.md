@@ -11,7 +11,8 @@ at the end it prints all the blocks and the ledger.
 
 An example of a 7-block blockchain:
 
-https://user-images.githubusercontent.com/71446610/183584715-b7adb7ab-312c-40b9-a0f9-57638bc37247.mp4
+![7-block generation](https://user-images.githubusercontent.com/71446610/183585466-bdbf11f5-c4e2-4146-afac-2f938dd59478.gif)
+
 
 ## Instructions
 In config (./src/blockchain/config/BlockchainConfig.class) you can configure blockchain length,
